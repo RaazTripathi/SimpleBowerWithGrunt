@@ -1,0 +1,20 @@
+{
+  "name": "SimpleBowerWithGrunt",
+  "version": "0.0.0",
+  "authors": [
+    "Ram <ram.tripathi@laitkor.com>"
+  ],
+  "description": "SampleApp",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3"
+  }
+}
